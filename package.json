@@ -1,6 +1,6 @@
 {
   "name": "gulp-browchify",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "An integration of gulp, browserify and watchify",
   "main": "index.js",
   "scripts": {
@@ -15,21 +15,21 @@
     "browserify",
     "watchify"
   ],
-  "author": "code-fury",
+  "author": "Spark-Eleven",
   "license": "Apache2 License 2.0",
   "bugs": {
-    "url": "https://github.com/code-fury/gulp-browchify/issues"
+    "url": "https://github.com/Spark-Eleven/gulp-browchify/issues"
   },
-  "homepage": "https://github.com/code-fury/gulp-browchify",
+  "homepage": "https://github.com/Spark-Eleven/gulp-browchify",
   "dependencies": {
     "browserify": "^11.2.0",
-    "chalk": "^1.1.1",
+    "chalk": "^1.1.3",
     "domain": "0.0.1",
-    "gulp": "^3.9.0",
-    "gulp-watch": "^4.3.5",
+    "gulp": "^3.9.1",
+    "gulp-watch": "^4.3.11",
     "plumber": "^0.4.8",
     "vinyl-source-stream": "^1.1.0",
-    "watchify": "^3.4.0"
+    "watchify": "^3.9.0"
   },
   "devDependencies": {
     "react": "^0.14.7",
